@@ -42,6 +42,6 @@ Repositorio para los ejercicios de Numpy, Pandas y Visualicación de los pair-pr
 
 - Estadística III
 
-REPASO CONCEPTOS RESUMIDOS
+## REPASO CONCEPTOS RESUMIDOS
 
 - Repaso Conceptos Resumidos
